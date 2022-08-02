@@ -7,7 +7,6 @@ import math
 import numpy
 from datetime import datetime
 
-
 def recognizeFace():
     videoCapture = cv2.VideoCapture(0)
 
